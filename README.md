@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full Stack**
 
-- 👯 I’m looking to collaborate on [Mintra clone](https://dynamic-fudge-27fced.netlify.app/)
+- 👯 I’m looking to collaborate on [Mintra clone](royalmarket.netlify.app)
 
 - 📫 How to reach me **mgckurchhi@gmail.com**
 
