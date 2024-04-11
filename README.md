@@ -1,4 +1,6 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMIFGoXQer0nsZS3DXUsMCjTE1KOPKpmtMiQ&s))
+
+[![NewImage ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMIFGoXQer0nsZS3DXUsMCjTE1KOPKpmtMiQ&s)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Mahipal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -6,19 +8,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahipal2005&label=Profile%20views&color=0e75b6&style=flat" alt="mahipal2005" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 - 🌱 I’m currently learning **Full Stack**
 
-- 👯 I’m looking to collaborate on [Mintra clone](royalmarket.netlify.app)
+- 👯 I’m looking to collaborate on [Mintra clone](https://dynamic-fudge-27fced.netlify.app/)
 
 - 📫 How to reach me **mgckurchhi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/mahipal-choudhary-mahi2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahipal choudhary" height="30" width="40" /></a>
-<a href="https://fb.com/mahipal choudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahipal choudhary" height="30" width="40" /></a>
-<a href="https://instagram.com/mahipal_choudhary_2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahipal_choudhary_2005" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahipal-choudhary-mahi2005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahipal choudhary" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mahipal.choudhary.338658" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahipal choudhary" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mahipal_choudhary_2005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahipal_choudhary_2005" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
