@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMIFGoXQer0nsZS3DXUsMCjTE1KOPKpmtMiQ&s))
 
 <h1 align="center">Hi 👋, I'm Mahipal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
