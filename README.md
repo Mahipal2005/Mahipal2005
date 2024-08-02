@@ -31,3 +31,54 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahipal2005&show_icons=true&locale=en" alt="mahipal2005" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahipal2005&" alt="mahipal2005" /></p>
+
+
+
+# Project
+
+## Project Name: KFC
+
+### Overview
+Developed an online food delivery web application for KFC, focusing on enhancing user experience and providing essential functionalities for a seamless ordering process.
+
+### Used Technologies
+- HTML
+- CSS
+- JavaScript
+
+### Links
+- [Live Demo](https://grand-sunflower-529dbf.netlify.app/)
+- [Source Code](https://github.com/Mahipal2005/Project/tree/main/kfcProject)
+
+---
+
+## Project Name: Royal Market
+
+### Overview
+The website achieved high performance scores and positive user feedback, demonstrating my proficiency in creating functional and aesthetically pleasing web applications.
+
+### Used Technologies
+- HTML
+- CSS
+- JavaScript
+
+### Links
+- [Live Demo](https://royalmarket.netlify.app/)
+- [Source Code](https://github.com/Mahipal2005/My_first_project-Myntra/tree/main/Project.1)
+
+---
+
+## Project Name: My Portfolio
+
+### Overview
+Passionate Front-End Developer with expertise in creating dynamic, user-centric web applications. Proficient in HTML, CSS, JavaScript, and adept at integrating modern frameworks and tools to deliver exceptional digital experiences.
+
+### Used Technologies
+- HTML
+- CSS
+- JavaScript
+
+### Links
+- [Live Demo](#)
+- [Source Code](#)
+
