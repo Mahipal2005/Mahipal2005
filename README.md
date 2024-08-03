@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Full Stack**
 
-- 👯 I’m looking to collaborate on [Mintra clone](https://dynamic-fudge-27fced.netlify.app/)👋 Hi, I'm Mahipal! I'm a front-end developer skilled in HTML5, CSS3, JavaScript, and React. I'm passionate about creating intuitive and visually appealing web applications.
+👋 Hi, I'm Mahipal! I'm a front-end developer skilled in HTML5, CSS3, JavaScript, and React. I'm passionate about creating intuitive and visually appealing web applications.
 
 💻 Currently, I'm expanding my expertise in full stack development through a course at Masai, where I'm learning the intricacies of both front-end and back-end technologies.
 
