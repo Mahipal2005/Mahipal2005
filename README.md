@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mahipal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full Stack  from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahipal2005&label=Profile%20views&color=0e75b6&style=flat" alt="mahipal2005" /> </p>
@@ -12,7 +12,13 @@
 
 - 🌱 I’m currently learning **Full Stack**
 
-- 👯 I’m looking to collaborate on [Mintra clone](https://dynamic-fudge-27fced.netlify.app/)
+- 👯 I’m looking to collaborate on [Mintra clone](https://dynamic-fudge-27fced.netlify.app/)👋 Hi, I'm Mahipal! I'm a front-end developer skilled in HTML5, CSS3, JavaScript, and React. I'm passionate about creating intuitive and visually appealing web applications.
+
+💻 Currently, I'm expanding my expertise in full stack development through a course at Masai, where I'm learning the intricacies of both front-end and back-end technologies.
+
+🚀 I enjoy staying updated with the latest industry trends and continuously improving my skills.
+
+🌐 Let's connect and collaborate on exciting projects!
 
 - 📫 How to reach me **mgckurchhi@gmail.com**
 
